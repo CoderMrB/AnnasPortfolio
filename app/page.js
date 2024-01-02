@@ -2,8 +2,8 @@
 export default function Home() {
   return (
     <main>
-    <h1>This is Anna's Portfolio</h1>
-    <p>This is what I'm doing</p>
+    <h1>This is Annas Portfolio</h1>
+    <p>This is what Im doing</p>
     </main>
   )
 }
